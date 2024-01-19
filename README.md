@@ -1,2 +1,2 @@
 # Froggs
-Fictional webapp to represetn a bakery and store.
+Fictional webapp to represent a bakery and store.
