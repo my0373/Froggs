@@ -1,0 +1,8 @@
+## Just my preferred Python setup
+*.env
+*id_rsa*
+*id_dsa*
+*.key
+*.secret
+*.pyc
+secret*
